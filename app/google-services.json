@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147204220977",
+    "project_id": "loan-pro-cd289",
+    "storage_bucket": "loan-pro-cd289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147204220977:android:ee34d907171158cef58d10",
+        "android_client_info": {
+          "package_name": "com.loan.emi.loanpro_emicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnSzuwxaX9OZmkBSJe_m-s_RrO5K-jOHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
